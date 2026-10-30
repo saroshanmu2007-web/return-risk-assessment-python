@@ -34,3 +34,18 @@ The project passed all 18 authoritative behavior checks in the original evaluati
 - Exception handling
 - Backend business logic
 - Risk assessment concepts
+
+## Test Results
+
+The project passed all 18 authoritative behavior checks in the original LeetCode evaluation.
+
+- Passed: 18
+- Failed: 0
+
+## Learning Outcomes
+
+- Python input validation
+- Boundary testing
+- Exception handling
+- Risk scoring logic
+- Batch processing
